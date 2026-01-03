@@ -1,4 +1,4 @@
-# AI-PCTP: AI-Powered Cyber Threat Prevention Platform
+# AICP: AI - Crime Prevention
 
 ![Project Banner](https://github.com/user-attachments/assets/a39473b1-97a9-4c26-9a94-dd9d05f85915)
 
